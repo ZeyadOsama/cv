@@ -39,6 +39,15 @@ body {
   color: #4AB19A;
 }
 
+.separator {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 0.5rem;
+  color: #F3F2F1;
+  margin: 6rem auto;
+  width: 5rem;
+}
+
 .header {
   display: block;
   margin-left: 6rem;
@@ -100,7 +109,7 @@ body {
 
 .bio {
   margin: auto;
-  width: 50%;
+  width: 25%;
 }
 
 .work {
