@@ -13,14 +13,14 @@ body {
 .container-middle {
   line-height: 1.75rem;
   margin: 0 auto;
-  padding: 2rem 0 2rem 0;
+  padding: 2rem 0;
 }
 
 .container-bottom {
   background-color: #4AB19A;
   color: #21564b;
   margin: 0;
-  padding: 1rem 0 1rem 0;
+  padding: 1rem 0;
   text-align: center;
 }
 
@@ -39,6 +39,12 @@ body {
   color: #4AB19A;
 }
 
+.container-middle-header-main {
+  color: #1E836C;
+  font-size: 3.5rem;
+  font-weight: lighter;
+}
+
 .separator {
   border-style: none;
   border-top-style: dotted;
@@ -46,6 +52,37 @@ body {
   color: #F3F2F1;
   margin: 6rem auto;
   width: 5rem;
+}
+
+.btn-message-me {
+  background: #4AB19A;
+  border: 0;
+  border-radius: 0.25rem;
+  color: #21564B;
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+  margin: 2rem auto;
+  padding: 1rem 3rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.btn-message-me:hover {
+    background: #21564b;
+    color: white;
+}
+
+.font-weight-light {
+  font-weight: lighter;
+}
+
+.half-parent-width{
+  width: 50%
+}
+
+.center{
+  margin: auto;
 }
 
 .header {
