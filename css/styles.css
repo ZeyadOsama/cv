@@ -137,7 +137,7 @@ body {
 
 .introduction-bio {
   color: #4AB19A;
-  font-size: 20px;
+  font-size: 1.25rem;
   margin: auto;
   padding: 0.5rem;
   text-align: center;
@@ -145,9 +145,8 @@ body {
 
 .introduction-img-code {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20rem;
+  height: 40%;
+  margin: 0 auto;
 }
 
 .bio {
