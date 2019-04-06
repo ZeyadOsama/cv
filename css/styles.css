@@ -4,7 +4,7 @@ body {
     margin: 0;
 }
 
-.pg-primary {
+.bg-prim {
  background-color: #4AB19A;
 }
 
@@ -40,6 +40,7 @@ body {
 }
 
 .container-middle-header {
+    margin: 1.5rem auto 0 auto;
     color: #4AB19A;
 }
 
